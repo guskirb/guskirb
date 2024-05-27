@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,mongodb)](https://skillicons.dev)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guskirb&layout=compact&theme=github_dark_dimmed)<br>
 ![](https://komarev.com/ghpvc/?username=guskirb)
 
